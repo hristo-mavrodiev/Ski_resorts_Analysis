@@ -9,7 +9,7 @@ Data Science Softuni 2019 course project
 
 
 ## Author: Hristo Mavrodiev
-Project requirements - [link](https://softuni.bg/downloads/svn/Data-Science/June-2019/09.%20Exam/assessment-guidelines.txt)
+Project requirements - [link](https://www.dropbox.com/s/yd458ut3qbo3tr0/assessment-guidelines.txt?dl=1)
 ## Abstract:
 The purpose of this research is to find what are the top countries with ski resorts. Is there any statistically significant difference in ski pass prices for adults in this countries. The research is trying to find the features that are mostly affecting the ski pass prices in this datasets. The correlation coefficients of the dataset columns are compared to the whole dataset and separated by country. Maybe different countries have different pricing models for ski pass prices. Also interesting question is what is the best time in the year to visit a ski resort. For this question are used snowfall meteostation information in 4 different resorts: " the Jackson Hole resort,USA","the Snowbird, USA","the Telluride resort, USA" and "the Whistler-Blackcomb resort,Canada".
 
